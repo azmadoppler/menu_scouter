@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<style>
+
+    #image {
+        max-width: 1080px;
+        max-height: 1080px;
+        display: block; /* To prevent page layout issues */
+        /*margin: auto; /* Optional, for centering the image */
+    }
+</style>
+
+<head>
+    <title>Image Upload and Crop</title>
+    <!-- Include Cropper.js library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.11/cropper.min.css">
+</head>
+<body>
+    <h1>Image Upload and Crop</h1>
+    
+    <input type="file" id="imageInput" accept="image/*">
+
+    <button id="resetButton">Reset</button>
+    
+    <div>
+        <img id="image" src="" alt="Uploaded Image">
+    </div>
+    
+    <div>
+        <button id="cropButton">Crop Image</button>
+        <a id="downloadButton" style="display: none;" download="cropped_image.png">
+            <button>Download Cropped Image</button>
+        </a>
+    </div>
+    
+    <!-- Include Cropper.js library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.11/cropper.min.js"></script>
+    
+    <script>
+        // Initialize Cropper.js instance
+        let cropper;
+        
+        // Image input change event
+        document.getElementById('imageInput').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            const reader = new FileReader();
+            
+            reader.onload = function() {
+                const image = document.getElementById('image');
+                image.src = reader.result;
+                
+                // Initialize Cropper.js
+                cropper = new Cropper(image, {
+                    // aspectRatio: 1, // Set desired aspect ratio for cropping
+                    viewMode: 2,    // Set cropping mode
+                });
+                
+                // Show crop button
+                document.getElementById('cropButton').style.display = 'block';
+            };
+            
+            reader.readAsDataURL(file);
+        });
+        document.getElementById('resetButton').addEventListener('click', resetCropper);
+
+        function resetCropper() {
+            if (cropper) {
+                cropper.destroy(); // Destroy the current cropper instance
+                image.src = '' 
+            }
+            initializeCropper(); // Reinitialize Cropper.js
+        }
+
+        function initializeCropper() {
+            cropper = new Cropper(imageElement, {
+            // Cropper.js options
+        });
+}
+        // Crop button click event
+        document.getElementById('cropButton').addEventListener('click', function() {
+            // Get cropped canvas
+            // const croppedCanvas = cropper.getCroppedCanvas();
+            
+            // // Display cropped image
+            // document.getElementById('image').src = croppedCanvas.toDataURL();
+            
+            // // Show download button
+            // const downloadButton = document.getElementById('downloadButton');
+            // downloadButton.href = croppedCanvas.toDataURL('image/png');
+            // downloadButton.style.display = 'block';
+                cropper.getCroppedCanvas().toBlob((blob) => {
+                    let formData = new FormData();
+                    formData.append('croppedImage', blob);
+
+                    // Send the data to the Flask backend
+                    fetch('/upload_cropped_image', {
+                        method: 'POST',
+                        body: formData,
+                    })
+                    .then(response => response.json())
+                    .then(data => {
+                        console.log('Success:', data);
+                    })
+                    .catch((error) => {
+                        console.error('Error:', error);
+                    });
+                });
+
+
+        });
+    </script>
+</body>
+</html>
