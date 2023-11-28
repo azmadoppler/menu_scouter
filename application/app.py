@@ -9,6 +9,7 @@ app = Flask(__name__)
 # Ensure there is a folder named 'uploads' in the same directory as this script
 UPLOAD_FOLDER = 'uploads'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+translate_result = []
 
 @app.route('/')
 def index():
@@ -40,54 +41,53 @@ def upload_file():
     return render_template('upload.html')
 
 
-@app.route('/upload_cropped_image', methods=['POST'])
+@app.route('/upload_cropped_image', methods=['GET','POST'])
 def upload_cropped_image():
+    if request.method == 'POST':
+        if 'croppedImage' in request.files:
+            empty_flag = 0
+            file = request.files['croppedImage']
+            # Save the file
+            file.save('uploads/image.png')
 
+
+            # Path to your Tesseract executable (if not in PATH)
+            pytesseract.pytesseract.tesseract_cmd = '/usr/bin/tesseract'
+
+            # Load an image
+            image_path = 'uploads/image.png'
+            image = Image.open(image_path)
+
+            # Perform OCR on the image
+            extracted_text = pytesseract.image_to_string(image, lang='eng+jpn')
+
+            # Initialize the translator
+            translator = Translator()
+            try:
+            # Translate the extracted text to Japanese
+                translated_text = translator.translate(extracted_text, src='ja', dest='en')
+
+                print("Original Text:")
+                print(extracted_text)
+
+                print("\nTranslated Text:")
+                print(translated_text.text)
+                translate_result.append(translated_text.text)
+            except:
+                print("Empty Text Found")
+                empty_flag = 1
+
+        else:
+            return {'status': 'no file found'}, 400
     
-     
-    if 'croppedImage' in request.files:
-        file = request.files['croppedImage']
-        # Save the file
-        file.save('uploads/image.png')
+
+    return render_template('result.html')
+                           #, class_label=translated_text.text)
 
 
-        # Path to your Tesseract executable (if not in PATH)
-        pytesseract.pytesseract.tesseract_cmd = '/usr/bin/tesseract'
-
-        # Load an image
-        image_path = 'uploads/image.png'
-        image = Image.open(image_path)
-
-        # Perform OCR on the image
-        extracted_text = pytesseract.image_to_string(image, lang='eng+jpn')
-
-        # Initialize the translator
-        translator = Translator()
-
-        # Translate the extracted text to Japanese
-        translated_text = translator.translate(extracted_text, src='ja', dest='en')
-
-        # Print the original and translated text
-        print("Original Text:")
-        print(extracted_text)
-
-        print("\nTranslated Text:")
-        print(translated_text.text)
-        # TODO TRANSLATION LOGIC GOES HERE
-
-        # STEP BY STEP#
-
-        # 1. READ THE IMAGE
-
-        # 2. CHECK THE LAGNUAGE? OR TRANSLATE THE TEXT
-
-        # 3. CHECK THE TEXT WITH THE DATABASE (SUBSTRING MATCH?)
-        return {'status': 'success'}
-    else:
-        return {'status': 'no file found'}, 400
-
-
-
+@app.route('/result')
+def result():
+    return render_template('result.html', info=translate_result)
 
 
 def classify_image(image_path):
