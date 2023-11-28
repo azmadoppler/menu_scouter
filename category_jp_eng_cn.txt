@@ -1,0 +1,2229 @@
+No.1
+Name : ごはん/rice/米饭
+Ingredient : Rice
+Calory : 130 kcal
+Protein : 2.7 g
+Carbohydrate : 28.2 g
+Fat : 0.3 g
+Sugar : 0.1 g
+Salt : 0.01 g
+
+No.2
+Name: うな重/Eels on Rice/鳗鱼盖饭
+Ingredient: Eels, Rice
+Calory: 320 kcal
+Protein: 16.4 g
+Carbohydrate: 40.8 g
+Fat: 9.2 g
+Sugar: 2.0 g
+Salt: 1.3 g
+
+No.3
+Name: ピラフ/Pilaf/手抓饭
+Ingredient: Rice, Vegetables, Spices, Meat or Alternatives
+Calory: 166 kcal
+Protein: 4.1 g
+Carbohydrate: 30.5 g
+Fat: 2.9 g
+Sugar: 1.2 g
+Salt: 0.6 g
+
+No.4
+Name: 親子丼/Chicken-'n'-Egg on Rice/鸡肉鸡蛋盖饭
+Ingredient: Chicken, Egg, Rice, Soy Sauce, Dashi (Japanese Soup Stock), Sugar
+Calory: 206 kcal
+Protein: 12.7 g
+Carbohydrate: 25.5 g
+Fat: 6.4 g
+Sugar: 5.4 g
+Salt: 1.1 g
+
+No.5
+Name: とんかつ定食/Pork Cutlet on Rice/炸猪排饭
+Ingredient: Pork Cutlet, Rice, Cabbage, Tonkatsu Sauce
+Calory: 368 kcal
+Protein: 17.2 g
+Carbohydrate: 56.4 g
+Fat: 8.6 g
+Sugar: 9.0 g
+Salt: 1.3 g
+
+No.6
+Name: ビーフカレー/Beef Curry/咖喱牛肉
+Ingredient: Beef, Potatoes, Carrots, Onions, Curry Roux, Rice
+Calory: 160 kcal
+Protein: 7.0 g
+Carbohydrate: 20.0 g
+Fat: 5.5 g
+Sugar: 3.0 g
+Salt: 1.2 g
+
+No.7
+Name: 寿司/Sushi/寿司
+Ingredient: Vinegared Rice, Various Toppings (Fish, Seafood, Vegetables), Nori (Seaweed)
+Calory: 150 kcal
+Protein: 5.0 g
+Carbohydrate: 30.0 g
+Fat: 0.5 g
+Sugar: 1.0 g
+Salt: 1.2 g
+
+No.8
+Name: 鶏めし/Chicken Rice/鸡肉盖饭
+Ingredient: Chicken, Rice, Vegetables, Soy Sauce
+Calory: 198 kcal
+Protein: 7.8 g
+Carbohydrate: 35.6 g
+Fat: 1.2 g
+Sugar: 1.0 g
+Salt: 1.5 g
+
+No.9
+Name: チャーハン/Fried Rice/炒饭
+Ingredient: Rice, Vegetables, Eggs, Soy Sauce, Oil
+Calory: 185 kcal
+Protein: 5.0 g
+Carbohydrate: 33.0 g
+Fat: 3.5 g
+Sugar: 2.0 g
+Salt: 1.1 g
+
+No.10
+Name: 天丼/Tempura Bowl/天妇罗盖饭
+Ingredient: Tempura (Deep-Fried Seafood and Vegetables), Rice, Dashi-Based Sauce
+Calory: 315 kcal
+Protein: 8.7 g
+Carbohydrate: 55.5 g
+Fat: 6.6 g
+Sugar: 5.8 g
+Salt: 1.5 g
+
+No.11
+Name: ビビンバ/Bibimbap/拌饭
+Ingredient: Rice, Vegetables (carrots, spinach, mushrooms, bean sprouts, etc.), Gochujang (red chili paste), Egg, Beef (optional)
+Calory: 194 kcal
+Protein: 7.6 g
+Carbohydrate: 36.2 g
+Fat: 2.7 g
+Sugar: 2.2 g
+Salt: 1.1 g
+
+No.12
+Name: トースト/Toast/吐司
+Ingredient: Bread, Butter (optional), Jam (optional)
+Calory: 265 kcal
+Protein: 8.2 g
+Carbohydrate: 48.4 g
+Fat: 4.3 g
+Sugar: 5.6 g
+Salt: 0.6 g
+
+No.13
+Name: クロワッサン/Croissant/可颂面包
+Ingredient: Flour, Butter, Milk, Sugar, Yeast
+Calory: 406 kcal
+Protein: 7.2 g
+Carbohydrate: 45.2 g
+Fat: 22.1 g
+Sugar: 5.9 g
+Salt: 0.6 g
+
+No.14
+Name: ロールパン/Roll Bread/面包卷
+Ingredient: Flour, Water, Yeast, Salt
+Calory: 267 kcal
+Protein: 9.2 g
+Carbohydrate: 54.3 g
+Fat: 1.3 g
+Sugar: 2.2 g
+Salt: 1.1 g
+
+No.15
+Name: レーズンパン/Raisin Bread/葡萄干面包
+Ingredient: Flour, Water, Yeast, Raisins, Sugar, Salt
+Calory: 325 kcal
+Protein: 8.1 g
+Carbohydrate: 68.4 g
+Fat: 1.2 g
+Sugar: 20.6 g
+Salt: 1.0 g
+
+No.16
+Name: チップバティ/Chip Butty/薯条三明治
+Ingredient: French Fries, Bread, Butter (optional)
+Calory: 312 kcal
+Protein: 4.7 g
+Carbohydrate: 46.8 g
+Fat: 12.4 g
+Sugar: 2.3 g
+Salt: 0.7 g
+
+No.17
+Name: ハンバーガー/Hamburger/汉堡包
+Ingredient: Beef Patty, Bun, Lettuce, Tomato, Cheese, Ketchup, Mustard
+Calory: 250 kcal
+Protein: 13.6 g
+Carbohydrate: 31.6 g
+Fat: 8.6 g
+Sugar: 6.0 g
+Salt: 1.0 g
+
+No.18
+Name: ピザ/Pizza/比萨
+Ingredient: Pizza Dough, Tomato Sauce, Cheese, Toppings (varies)
+Calory: 285 kcal
+Protein: 12.5 g
+Carbohydrate: 36.2 g
+Fat: 10.4 g
+Sugar: 4.0 g
+Salt: 0.9 g
+
+No.19
+Name: サンドイッチ/Sandwiches/三明治
+Ingredient: Bread, Filling (varies, e.g., meat, vegetables, cheese), Condiments (e.g., mayonnaise, mustard)
+Calory: 250 kcal
+Protein: 10.3 g
+Carbohydrate: 32.6 g
+Fat: 8.6 g
+Sugar: 3.5 g
+Salt: 1.2 g
+
+No.20
+Name: うどん/Udon Noodle/乌冬面
+Ingredient: Udon Noodles, Soup Base (varies)
+Calory: 138 kcal
+Protein: 2.9 g
+Carbohydrate: 26.2 g
+Fat: 2.1 g
+Sugar: 2.3 g
+Salt: 1.0 g
+
+No.21
+Name: 天ぷらうどん/Tempura Udon/天妇罗乌冬面
+Ingredient: Udon Noodles, Tempura (battered and fried ingredients), Soup Base
+Calory: 378 kcal
+Protein: 7.6 g
+Carbohydrate: 60.4 g
+Fat: 11.2 g
+Sugar: 3.6 g
+Salt: 1.2 g
+
+No.22
+Name: そば/Soba Noodle/荞麦面
+Ingredient: Soba Noodles, Dipping Sauce
+Calory: 99 kcal
+Protein: 3.4 g
+Carbohydrate: 19.6 g
+Fat: 0.3 g
+Sugar: 1.2 g
+Salt: 2.3 g
+
+No.23
+Name: ラーメン/Ramen Noodle/拉面
+Ingredient: Ramen Noodles, Broth, Toppings (e.g., pork, egg, vegetables)
+Calory: 450 kcal
+Protein: 10.5 g
+Carbohydrate: 58.3 g
+Fat: 19.2 g
+Sugar: 3.8 g
+Salt: 3.0 g
+
+No.24
+Name: 牛肉麺/Beef Noodle/牛肉面
+Ingredient: Noodles, Beef, Broth, Vegetables
+Calory: 280 kcal
+Protein: 15.7 g
+Carbohydrate: 32.4 g
+Fat: 10.2 g
+Sugar: 4.0 g
+Salt: 1.6 g
+
+No.25
+Name: 天津飯/Tensin Noodle/天津炒饭
+Ingredient: Rice, Meat (usually pork or chicken), Vegetables, Sweet and Sour Sauce
+Calory: 320 kcal
+Protein: 11.8 g
+Carbohydrate: 51.6 g
+Fat: 7.2 g
+Sugar: 10.4 g
+Salt: 2.0 g
+
+No.26
+Name: 焼きそば/Fried Noodle/炒面
+Ingredient: Yakisoba Noodles, Vegetables, Pork (optional), Yakisoba Sauce
+Calory: 222 kcal
+Protein: 4.6 g
+Carbohydrate: 45.2 g
+Fat: 2.1 g
+Sugar: 4.8 g
+Salt: 2.3 g
+
+No.27
+Name: スパゲッティ/Spaghetti/意大利面
+Ingredient: Spaghetti, Tomato Sauce, Meatballs (optional), Cheese (optional)
+Calory: 157 kcal
+Protein: 5.8 g
+Carbohydrate: 31.6 g
+Fat: 1.2 g
+Sugar: 3.5 g
+Salt: 1.0 g
+
+No.28
+Name: お好み焼き/Japanese-style Pancake/日式煎饼
+Ingredient: Flour, Cabbage, Pork, Seafood, Okonomiyaki Sauce, Mayonnaise
+Calory: 280 kcal
+Protein: 7.6 g
+Carbohydrate: 36.2 g
+Fat: 10.4 g
+Sugar: 4.2 g
+Salt: 1.4 g
+
+No.29
+Name: たこ焼き/Takoyaki/章鱼烧
+Ingredient: Batter with Octopus Pieces, Takoyaki Sauce, Bonito Flakes, Mayonnaise
+Calory: 82 kcal
+Protein: 2.6 g
+Carbohydrate: 7.4 g
+Fat: 4.8 g
+Sugar: 2.4 g
+Salt: 0.9 g
+
+No.30
+Name: グラタン/Gratin/焗饭
+Ingredient: Rice, Meat (e.g., chicken, seafood), Cheese, Bechamel Sauce
+Calory: 305 kcal
+Protein: 13.4 g
+Carbohydrate: 31.2 g
+Fat: 14.6 g
+Sugar: 5.6 g
+Salt: 1.3 g
+
+No.31
+Name: 野菜炒め/Sauteed Vegetables/炒蔬菜
+Ingredient: Various Vegetables (e.g., bell peppers, broccoli, carrots), Cooking Oil, Seasonings
+Calory: 62 kcal
+Protein: 1.6 g
+Carbohydrate: 8.4 g
+Fat: 3.2 g
+Sugar: 3.0 g
+Salt: 0.6 g
+
+No.32
+Name: コロッケ/Croquette/炸饼
+Ingredient: Mashed Potatoes, Ground Meat (usually beef or pork), Breadcrumbs
+Calory: 196 kcal
+Protein: 5.7 g
+Carbohydrate: 19.8 g
+Fat: 10.4 g
+Sugar: 1.5 g
+Salt: 0.7 g
+
+No.33
+Name: 焼きなす/Grilled Eggplant/烤茄子
+Ingredient: Eggplant, Olive Oil, Seasonings
+Calory: 25 kcal
+Protein: 0.9 g
+Carbohydrate: 4.8 g
+Fat: 0.7 g
+Sugar: 2.2 g
+Salt: 0.4 g
+
+No.34
+Name: ほうれん草炒め/Sauteed Spinach/炒菠菜
+Ingredient: Spinach, Garlic, Soy Sauce
+Calory: 23 kcal
+Protein: 3.0 g
+Carbohydrate: 3.5 g
+Fat: 0.5 g
+Sugar: 0.9 g
+Salt: 1.1 g
+
+No.35
+Name: 野菜天ぷら/Vegetable Tempura/蔬菜天妇罗
+Ingredient: Assorted Vegetables (e.g., sweet potato, eggplant, bell pepper), Tempura Batter, Dipping Sauce
+Calory: 237 kcal
+Protein: 3.8 g
+Carbohydrate: 28.2 g
+Fat: 12.4 g
+Sugar: 4.3 g
+Salt: 0.9 g
+
+No.36
+Name: 味噌汁/Miso Soup/味噌汤
+Ingredient: Miso Paste, Dashi (broth), Tofu, Wakame (seaweed), Green Onions
+Calory: 43 kcal
+Protein: 3.2 g
+Carbohydrate: 5.8 g
+Fat: 1.1 g
+Sugar: 1.0 g
+Salt: 1.3 g
+
+No.37
+Name: ポタージュ/Potage/浓汤
+Ingredient: Blended Vegetable Soup (e.g., potatoes, carrots, leeks)
+Calory: 132 kcal
+Protein: 2.6 g
+Carbohydrate: 16.4 g
+Fat: 6.6 g
+Sugar: 4.2 g
+Salt: 0.8 g
+
+No.38
+Name: ソーセージ/Sausage/香肠
+Ingredient: Ground Meat (usually pork or beef), Seasonings, Casing
+Calory: 298 kcal
+Protein: 11.5 g
+Carbohydrate: 2.1 g
+Fat: 26.3 g
+Sugar: 1.2 g
+Salt: 1.6 g
+
+No.39
+Name: おでん/Oden/日式煮物
+Ingredient: Various Ingredients (e.g., daikon radish, konnyaku, boiled eggs) simmered in soy-flavored broth
+Calory: 89 kcal
+Protein: 6.0 g
+Carbohydrate: 9.3 g
+Fat: 2.6 g
+Sugar: 2.7 g
+Salt: 1.4 g
+
+No.40
+Name: オムレツ/Omelet/煎蛋卷
+Ingredient: Eggs, Filling (e.g., cheese, vegetables, ham), Butter
+Calory: 153 kcal
+Protein: 8.7 g
+Carbohydrate: 1.2 g
+Fat: 12.6 g
+Sugar: 1.1 g
+Salt: 0.6 g
+
+No.41
+Name: がんもどき/Ganmodoki/蟹味噌煎饼
+Ingredient: Tofu, Vegetables, Miso Paste
+Calory: 126 kcal
+Protein: 7.0 g
+Carbohydrate: 9.2 g
+Fat: 6.5 g
+Sugar: 1.9 g
+Salt: 1.0 g
+
+No.42
+Name: 餃子/Jiaozi/饺子
+Ingredient: Wrappers, Filling (e.g., ground pork, cabbage, seasonings)
+Calory: 226 kcal
+Protein: 10.8 g
+Carbohydrate: 32.4 g
+Fat: 5.2 g
+Sugar: 2.8 g
+Salt: 1.0 g
+
+No.43
+Name: シチュー/Stew/炖菜
+Ingredient: Meat (e.g., beef, chicken), Vegetables (e.g., potatoes, carrots), Broth
+Calory: 135 kcal
+Protein: 9.7 g
+Carbohydrate: 10.2 g
+Fat: 6.2 g
+Sugar: 2.5 g
+Salt: 1.3 g
+
+No.44
+Name: 照り焼き魚/Teriyaki Grilled Fish/照烧鱼
+Ingredient: Fish (e.g., salmon, mackerel), Teriyaki Sauce
+Calory: 194 kcal
+Protein: 24.3 g
+Carbohydrate: 6.5 g
+Fat: 7.8 g
+Sugar: 4.3 g
+Salt: 1.2 g
+
+No.45
+Name: 揚げ魚/Fried Fish/炸鱼
+Ingredient: Fish Fillet, Batter, Oil for Frying
+Calory: 232 kcal
+Protein: 27.4 g
+Carbohydrate: 9.3 g
+Fat: 10.4 g
+Sugar: 0.6 g
+Salt: 0.6 g
+
+No.46
+Name: 焼き鮭/Grilled Salmon/烤鲑鱼
+Ingredient: Salmon Fillet, Salt, Pepper, Olive Oil
+Calory: 206 kcal
+Protein: 22.0 g
+Carbohydrate: 0.0 g
+Fat: 13.8 g
+Sugar: 0.0 g
+Salt: 0.3 g
+
+No.47
+Name: サーモンムニエル/Salmon Meuniere/黄油煎三文鱼
+Ingredient: Salmon Fillet, Flour, Butter, Lemon Juice
+Calory: 259 kcal
+Protein: 22.0 g
+Carbohydrate: 9.5 g
+Fat: 15.6 g
+Sugar: 0.2 g
+Salt: 0.4 g
+
+No.48
+Name: 刺身/Sashimi/刺身
+Ingredient: Fresh Raw Fish, Wasabi, Soy Sauce
+Calory: 121 kcal
+Protein: 24.4 g
+Carbohydrate: 0.6 g
+Fat: 2.3 g
+Sugar: 0.1 g
+Salt: 1.5 g
+
+No.49
+Name: 秋刀魚の塩焼き/Grilled Pacific Saury/烤秋刀鱼
+Ingredient: Pacific Saury, Salt
+Calory: 193 kcal
+Protein: 20.8 g
+Carbohydrate: 0.0 g
+Fat: 12.9 g
+Sugar: 0.0 g
+Salt: 0.7 g
+
+No.50
+Name: すき焼き/Sukiyaki/涮涮锅
+Ingredient: Thin Sliced Beef, Tofu, Vegetables, Soy Sauce-based Broth
+Calory: 190 kcal
+Protein: 13.5 g
+Carbohydrate: 13.6 g
+Fat: 9.5 g
+Sugar: 10.0 g
+Salt: 3.1 g
+
+No.51
+Name: 酢豚/Sweet and Sour Pork/糖醋猪肉
+Ingredient: Pork, Bell Peppers, Pineapple, Sweet and Sour Sauce
+Calory: 242 kcal
+Protein: 19.8 g
+Carbohydrate: 25.0 g
+Fat: 7.3 g
+Sugar: 20.6 g
+Salt: 1.5 g
+
+No.52
+Name: カジキ焼き/Lightly Roasted Fish/烤旗鱼
+Ingredient: Marlin Steak, Olive Oil, Salt, Pepper
+Calory: 148 kcal
+Protein: 25.2 g
+Carbohydrate: 0.0 g
+Fat: 5.1 g
+Sugar: 0.0 g
+Salt: 0.2 g
+
+No.53
+Name: ちゃんこ鍋/Steamed Egg Hotchpotch/锅仔煮
+Ingredient: Various Ingredients (e.g., meat, tofu, vegetables), Soy Sauce-based Broth, Raw Egg
+Calory: 90 kcal
+Protein: 9.5 g
+Carbohydrate: 3.4 g
+Fat: 4.4 g
+Sugar: 1.9 g
+Salt: 2.2 g
+
+No.54
+Name: 天ぷら/Tempura/天妇罗
+Ingredient: Assorted Ingredients (e.g., shrimp, vegetables), Tempura Batter, Dipping Sauce
+Calory: 249 kcal
+Protein: 5.7 g
+Carbohydrate: 29.7 g
+Fat: 12.4 g
+Sugar: 3.2 g
+Salt: 1.3 g
+
+No.55
+Name: 唐揚げ/Fried Chicken/炸鸡
+Ingredient: Chicken Pieces, Flour, Egg, Oil for Frying
+Calory: 295 kcal
+Protein: 25.6 g
+Carbohydrate: 12.4 g
+Fat: 16.1 g
+Sugar: 0.0 g
+Salt: 1.4 g
+
+No.56
+Name: 牛カツ/Sirloin Cutlet/牛排煎饼
+Ingredient: Beef Sirloin, Breading, Oil for Frying
+Calory: 320 kcal
+Protein: 29.2 g
+Carbohydrate: 12.6 g
+Fat: 16.4 g
+Sugar: 0.6 g
+Salt: 1.2 g
+
+No.57
+Name: 南蛮漬け/Nanbanzuke/南蛮腌制
+Ingredient: Fried Fish or Meat, Vinegar-based Sauce
+Calory: 168 kcal
+Protein: 17.4 g
+Carbohydrate: 11.5 g
+Fat: 6.2 g
+Sugar: 6.0 g
+Salt: 1.1 g
+
+No.58
+Name: 煮魚/Boiled Fish/煮鱼
+Ingredient: Fish, Broth or Sauce
+Calory: 140 kcal
+Protein: 26.3 g
+Carbohydrate: 0.1 g
+Fat: 3.9 g
+Sugar: 0.0 g
+Salt: 1.0 g
+
+No.59
+Name: 牛肉とじゃがいもの煮物/Seasoned Beef with Potatoes/牛肉土豆煮
+Ingredient: Beef, Potatoes, Soy Sauce-based Seasoning
+Calory: 198 kcal
+Protein: 11.7 g
+Carbohydrate: 21.6 g
+Fat: 7.4 g
+Sugar: 1.9 g
+Salt: 2.0 g
+
+No.60
+Name: ハンバーグステーキ/Hamburger Steak/汉堡牛排
+Ingredient: Ground Beef, Breadcrumbs, Onion, Gravy
+Calory: 280 kcal
+Protein: 16.5 g
+Carbohydrate: 7.8 g
+Fat: 20.3 g
+Sugar: 2.1 g
+Salt: 1.3 g
+
+No.61
+Name: ステーキ/Steak/牛排
+Ingredient: Beef Steak, Seasonings, Butter (optional)
+Calory: 250 kcal
+Protein: 27.6 g
+Carbohydrate: 0.0 g
+Fat: 16.8 g
+Sugar: 0.0 g
+Salt: 0.3 g
+
+No.62
+Name: 干物/Dried Fish/干鱼
+Ingredient: Dried Fish (varies by type)
+Calory: Varies by fish type
+Protein: Varies by fish type
+Carbohydrate: Varies by fish type
+Fat: Varies by fish type
+Sugar: Varies by fish type
+Salt: Varies by fish type
+
+No.63
+Name: 生姜焼きポーク/Ginger Pork Saute/姜汁猪肉炒
+Ingredient: Pork, Ginger, Soy Sauce, Mirin
+Calory: 220 kcal
+Protein: 19.4 g
+Carbohydrate: 4.8 g
+Fat: 13.8 g
+Sugar: 3.7 g
+Salt: 2.2 g
+
+No.64
+Name: 豆腐チリ/Spicy Chili-flavored Tofu/麻辣豆腐
+Ingredient: Tofu, Chili Sauce, Ground Meat (optional), Vegetables
+Calory: 120 kcal
+Protein: 10.2 g
+Carbohydrate: 8.4 g
+Fat: 5.6 g
+Sugar: 3.0 g
+Salt: 2.1 g
+
+No.65
+Name: 焼き鳥/Yakitori/烤鸡串
+Ingredient: Skewered Chicken, Yakitori Sauce
+Calory: 167 kcal
+Protein: 20.6 g
+Carbohydrate: 2.8 g
+Fat: 7.6 g
+Sugar: 2.0 g
+Salt: 1.6 g
+
+No.66
+Name: キャベツ巻き/Cabbage Roll/包菜卷
+Ingredient: Cabbage Leaves, Ground Meat, Rice, Tomato Sauce
+Calory: 185 kcal
+Protein: 10.8 g
+Carbohydrate: 16.4 g
+Fat: 8.4 g
+Sugar: 3.2 g
+Salt: 1.3 g
+
+No.67
+Name: オムレツ/Omelet/煎蛋卷
+Ingredient: Eggs, Filling (e.g., cheese, vegetables, ham), Butter
+Calory: 180 kcal
+Protein: 11.6 g
+Carbohydrate: 1.6 g
+Fat: 14.2 g
+Sugar: 0.9 g
+Salt: 1.1 g
+
+No.68
+Name: 目玉焼き/Egg Sunny-Side Up/荷包蛋
+Ingredient: Eggs, Cooking Oil, Salt, Pepper
+Calory: 143 kcal
+Protein: 9.1 g
+Carbohydrate: 0.6 g
+Fat: 11.6 g
+Sugar: 0.6 g
+Salt: 0.5 g
+
+No.69
+Name: 納豆/Natto/纳豆
+Ingredient: Fermented Soybeans, Soy Sauce, Mustard (optional)
+Calory: 211 kcal
+Protein: 17.7 g
+Carbohydrate: 16.5 g
+Fat: 9.8 g
+Sugar: 0.4 g
+Salt: 3.4 g
+
+No.70
+Name: 冷奴/Cold Tofu/冷豆腐
+Ingredient: Tofu, Soy Sauce, Green Onions, Ginger
+Calory: 65 kcal
+Protein: 6.8 g
+Carbohydrate: 1.5 g
+Fat: 3.7 g
+Sugar: 0.4 g
+Salt: 2.3 g
+
+No.71
+Name: 玉子焼き/Egg Roll/蛋饼
+Ingredient: Eggs, Dashi (broth), Sugar, Soy Sauce
+Calory: 106 kcal
+Protein: 7.7 g
+Carbohydrate: 3.7 g
+Fat: 6.9 g
+Sugar: 2.5 g
+Salt: 1.0 g
+
+No.72
+Name: 冷やし中華/Chilled Noodle/凉拌面
+Ingredient: Chilled Noodles, Vegetables, Soy-Based Sauce
+Calory: 160 kcal
+Protein: 4.2 g
+Carbohydrate: 32.8 g
+Fat: 0.5 g
+Sugar: 5.6 g
+Salt: 1.4 g
+
+No.73
+Name: 鶏肉とピーマンの炒め物/Stir-Fried Beef and Peppers/鸡肉青椒炒
+Ingredient: Chicken Breast, Bell Peppers, Soy Sauce, Cooking Oil
+Calory: 143 kcal
+Protein: 24.2 g
+Carbohydrate: 4.1 g
+Fat: 3.2 g
+Sugar: 2.0 g
+Salt: 1.0 g
+
+No.74
+Name: 豚肉の煮物/Simmered Pork/烩猪肉
+Ingredient: Pork, Soy Sauce, Mirin, Sugar, Ginger
+Calory: 220 kcal
+Protein: 23.1 g
+Carbohydrate: 10.2 g
+Fat: 9.9 g
+Sugar: 7.5 g
+Salt: 2.3 g
+
+No.75
+Name: 鶏肉と野菜の煮物/Boiled Chicken and Vegetables/鸡肉蔬菜煮
+Ingredient: Chicken, Vegetables (e.g., carrots, potatoes), Soy Sauce-based Seasoning
+Calory: 136 kcal
+Protein: 18.5 g
+Carbohydrate: 8.3 g
+Fat: 2.8 g
+Sugar: 3.0 g
+Salt: 1.6 g
+
+No.76
+Name: 刺身丼/Sashimi Bowl/刺身饭
+Ingredient: Sashimi, Rice, Soy Sauce, Wasabi
+Calory: 410 kcal
+Protein: 37.4 g
+Carbohydrate: 53.8 g
+Fat: 2.6 g
+Sugar: 0.3 g
+Salt: 3.0 g
+
+No.77
+Name: 寿司丼/Sushi Bowl/寿司饭
+Ingredient: Sushi Rice, Assorted Sushi Toppings (e.g., fish, vegetables)
+Calory: 341 kcal
+Protein: 20.1 g
+Carbohydrate: 65.9 g
+Fat: 1.4 g
+Sugar: 1.4 g
+Salt: 2.2 g
+
+No.78
+Name: 鯛焼き/Fish-shaped Pancake with Bean Jam/鲷鱼烤饼
+Ingredient: Pancake Batter, Sweet Bean Jam Filling
+Calory: 265 kcal
+Protein: 4.0 g
+Carbohydrate: 59.2 g
+Fat: 1.6 g
+Sugar: 21.3 g
+Salt: 0.2 g
+
+No.79
+Name: エビチリ/Shrimp with Chili Source/辣椒虾
+Ingredient: Shrimp, Chili Sauce, Bell Peppers, Onions
+Calory: 144 kcal
+Protein: 17.6 g
+Carbohydrate: 8.5 g
+Fat: 4.1 g
+Sugar: 4.8 g
+Salt: 1.2 g
+
+No.80
+Name: ローストチキン/Roast Chicken/烤鸡
+Ingredient: Whole Chicken, Herbs, Olive Oil
+Calory: 165 kcal
+Protein: 31.0 g
+Carbohydrate: 0.0 g
+Fat: 3.6 g
+Sugar: 0.0 g
+Salt: 0.3 g
+
+No.81
+Name: 肉団子の蒸し物/Steamed Meat Dumpling/蒸肉丸
+Ingredient: Meat (e.g., pork or beef), Seasonings
+Calory: 237 kcal
+Protein: 22.5 g
+Carbohydrate: 5.2 g
+Fat: 14.5 g
+Sugar: 0.6 g
+Salt: 2.1 g
+
+No.82
+Name: オムライス/Omelet with Fried Rice/炒饭煎蛋
+Ingredient: Eggs, Rice, Vegetables, Ketchup
+Calory: 259 kcal
+Protein: 12.7 g
+Carbohydrate: 24.5 g
+Fat: 12.2 g
+Sugar: 5.4 g
+Salt: 2.2 g
+
+No.83
+Name: カツカレー/Cutlet Curry/咖喱猪排
+Ingredient: Breaded Pork Cutlet, Curry Sauce, Rice
+Calory: 493 kcal
+Protein: 16.4 g
+Carbohydrate: 70.8 g
+Fat: 15.8 g
+Sugar: 8.1 g
+Salt: 2.9 g
+
+No.84
+Name: スパゲッティミートソース/Spaghetti Meat Sauce/肉酱意大利面
+Ingredient: Ground Meat (e.g., beef or pork), Tomatoes, Spaghetti
+Calory: 274 kcal
+Protein: 14.9 g
+Carbohydrate: 38.7 g
+Fat: 6.6 g
+Sugar: 8.3 g
+Salt: 2.0 g
+
+No.85
+Name: エビフライ/Fried Shrimp/炸虾
+Ingredient: Shrimp, Breading, Oil for Frying
+Calory: 204 kcal
+Protein: 14.7 g
+Carbohydrate: 15.2 g
+Fat: 9.1 g
+Sugar: 1.4 g
+Salt: 1.3 g
+
+No.86
+Name: ポテトサラダ/Potato Salad/土豆沙拉
+Ingredient: Potatoes, Mayonnaise, Vegetables
+Calory: 143 kcal
+Protein: 2.2 g
+Carbohydrate: 12.8 g
+Fat: 9.6 g
+Sugar: 2.3 g
+Salt: 0.8 g
+
+No.87
+Name: グリーンサラダ/Green Salad/绿色沙拉
+Ingredient: Lettuce, Cucumbers, Tomatoes, Dressing
+Calory: 19 kcal
+Protein: 0.9 g
+Carbohydrate: 3.7 g
+Fat: 0.3 g
+Sugar: 2.0 g
+Salt: 0.4 g
+
+No.88
+Name: マカロニサラダ/Macaroni Salad/通心粉沙拉
+Ingredient: Macaroni, Mayonnaise, Vegetables
+Calory: 150 kcal
+Protein: 2.6 g
+Carbohydrate: 14.6 g
+Fat: 8.6 g
+Sugar: 2.2 g
+Salt: 0.9 g
+
+No.89
+Name: 豆腐と野菜の和風煮物/Japanese Tofu and Vegetable Chowder/豆腐蔬菜煮
+Ingredient: Tofu, Vegetables, Soy Sauce-based Seasoning
+Calory: 88 kcal
+Protein: 7.2 g
+Carbohydrate: 7.3 g
+Fat: 3.6 g
+Sugar: 2.0 g
+Salt: 1.3 g
+
+No.90
+Name: 豚味噌汁/Pork Miso Soup/味噌汤猪肉
+Ingredient: Pork, Miso Paste, Tofu, Green Onions
+Calory: 82 kcal
+Protein: 7.5 g
+Carbohydrate: 5.9 g
+Fat: 3.5 g
+Sugar: 2.0 g
+Salt: 1.4 g
+
+No.91
+Name: 中華スープ/Chinese Soup/中式汤
+Ingredient: Chicken, Vegetables, Chinese-style Broth
+Calory: 90 kcal
+Protein: 12.5 g
+Carbohydrate: 4.6 g
+Fat: 2.3 g
+Sugar: 2.0 g
+Salt: 1.7 g
+
+No.92
+Name: 牛丼/Beef Bowl/牛肉饭
+Ingredient: Thinly Sliced Beef, Onions, Soy Sauce-based Seasoning
+Calory: 511 kcal
+Protein: 23.8 g
+Carbohydrate: 60.9 g
+Fat: 19.0 g
+Sugar: 10.7 g
+Salt: 4.1 g
+
+No.93
+Name: きんぴらごぼう/Kinpira-style Sauteed Burdock/金平牛蒡
+Ingredient: Burdock, Carrots, Soy Sauce-based Seasoning
+Calory: 83 kcal
+Protein: 1.3 g
+Carbohydrate: 13.2 g
+Fat: 2.9 g
+Sugar: 1.8 g
+Salt: 2.2 g
+
+No.94
+Name: おにぎり/Rice Ball/饭团
+Ingredient: Rice, Seaweed, Filling (e.g., Pickled Plum, Salmon)
+Calory: 203 kcal
+Protein: 3.8 g
+Carbohydrate: 45.2 g
+Fat: 0.3 g
+Sugar: 0.0 g
+Salt: 2.0 g
+
+No.95
+Name: ピザトースト/Pizza Toast/比萨吐司
+Ingredient: Bread, Tomato Sauce, Cheese, Toppings (e.g., Pepperoni)
+Calory: 235 kcal
+Protein: 8.4 g
+Carbohydrate: 35.9 g
+Fat: 7.6 g
+Sugar: 5.1 g
+Salt: 1.2 g
+
+No.96
+Name: つけ麺/Dipping Noodles/蘸面
+Ingredient: Thick Noodles, Dipping Broth, Toppings (e.g., Chashu Pork)
+Calory: 488 kcal
+Protein: 20.3 g
+Carbohydrate: 80.4 g
+Fat: 7.2 g
+Sugar: 9.1 g
+Salt: 4.5 g
+
+No.97
+Name: ホットドッグ/Hot Dog/热狗
+Ingredient: Sausage or Frankfurter, Bun, Condiments (e.g., Ketchup, Mustard)
+Calory: 150 kcal
+Protein: 5.6 g
+Carbohydrate: 19.2 g
+Fat: 6.1 g
+Sugar: 3.1 g
+Salt: 0.7 g
+
+No.98
+Name: フライドポテト/French Fries/炸薯条
+Ingredient: Potatoes, Oil for Frying, Salt
+Calory: 365 kcal
+Protein: 3.4 g
+Carbohydrate: 63.0 g
+Fat: 13.7 g
+Sugar: 1.0 g
+Salt: 1.2 g
+
+No.99
+Name: 五目ごはん/Mixed Rice/五味饭
+Ingredient: Rice, Mixed Ingredients (e.g., Vegetables, Meat, Seafood), Soy Sauce-based Seasoning
+Calory: 301 kcal
+Protein: 11.7 g
+Carbohydrate: 51.4 g
+Fat: 5.7 g
+Sugar: 2.5 g
+Salt: 2.1 g
+
+No.100
+Name: ゴーヤチャンプル/Goya Chanpuru/苦瓜炒
+Ingredient: Bitter Melon (Goya), Tofu, Pork, Soy Sauce
+Calory: 187 kcal
+Protein: 13.4 g
+Carbohydrate: 5.8 g
+Fat: 12.4 g
+Sugar: 2.0 g
+Salt: 2.3 g
+
+No.101
+Name: グリーンカレー/Green Curry/绿咖喱
+Ingredient: Chicken or Vegetables, Green Curry Paste, Coconut Milk, Vegetables
+Calory: 320 kcal
+Protein: 10.5 g
+Carbohydrate: 12.3 g
+Fat: 26.4 g
+Sugar: 5.0 g
+Salt: 2.0 g
+
+No.102
+Name: 沖縄そば/Okinawa Soba/冲绳蕎麦
+Ingredient: Wheat Noodles, Pork, Green Onions, Broth
+Calory: 413 kcal
+Protein: 13.9 g
+Carbohydrate: 70.2 g
+Fat: 7.4 g
+Sugar: 2.0 g
+Salt: 2.5 g
+
+No.103
+Name: マンゴープリン/Mango Pudding/芒果布丁
+Ingredient: Mango Puree, Gelatin, Sugar
+Calory: 92 kcal
+Protein: 1.1 g
+Carbohydrate: 22.4 g
+Fat: 0.3 g
+Sugar: 20.8 g
+Salt: 0.1 g
+
+No.104
+Name: アーモンドゼリー/Almond Jelly/杏仁糊
+Ingredient: Almond Milk, Gelatin, Sugar
+Calory: 134 kcal
+Protein: 3.7 g
+Carbohydrate: 25.6 g
+Fat: 2.3 g
+Sugar: 20.5 g
+Salt: 0.1 g
+
+No.105
+Name: チゲ/Jjigae/韩国炖菜
+Ingredient: Tofu, Kimchi, Vegetables, Pork, Spicy Seasonings
+Calory: 230 kcal
+Protein: 16.4 g
+Carbohydrate: 9.6 g
+Fat: 15.2 g
+Sugar: 4.0 g
+Salt: 2.3 g
+
+No.106
+Name: チキンリブ/Dak Galbi/韩国辣炖鸡
+Ingredient: Chicken, Vegetables, Spicy Sauce
+Calory: 350 kcal
+Protein: 22.5 g
+Carbohydrate: 24.8 g
+Fat: 16.7 g
+Sugar: 9.4 g
+Salt: 2.7 g
+
+No.107
+Name: ドライカレー/Dry Curry/干咖喱
+Ingredient: Ground Meat (e.g., Beef or Pork), Curry Spices, Rice
+Calory: 488 kcal
+Protein: 15.2 g
+Carbohydrate: 59.7 g
+Fat: 21.0 g
+Sugar: 7.3 g
+Salt: 2.4 g
+
+No.108
+Name: 釜飯/Kamameshi/煮饭
+Ingredient: Rice, Various Ingredients (e.g., Seafood, Vegetables), Soy Sauce-based Seasoning
+Calory: 385 kcal
+Protein: 9.8 g
+Carbohydrate: 81.4 g
+Fat: 1.1 g
+Sugar: 2.1 g
+Salt: 2.4 g
+
+No.109
+Name: 粉絲湯/Rice Vermicelli/粉丝汤
+Ingredient: Rice Vermicelli Noodles, Broth, Toppings (e.g., Shrimp)
+Calory: 200 kcal
+Protein: 8.6 g
+Carbohydrate: 39.2 g
+Fat: 0.9 g
+Sugar: 0.7 g
+Salt: 1.9 g
+
+No.110
+Name: パエリア/Paella/西班牙海鲜饭
+Ingredient: Rice, Seafood (e.g., Shrimp, Mussels), Saffron, Bell Peppers
+Calory: 356 kcal
+Protein: 20.7 g
+Carbohydrate: 65.4 g
+Fat: 3.8 g
+Sugar: 3.7 g
+Salt: 2.3 g
+
+No.111
+Name: タンメン/Tanmen/担担面
+Ingredient: Noodles, Ground Meat (e.g., Pork), Vegetables, Spicy Broth
+Calory: 325 kcal
+Protein: 12.1 g
+Carbohydrate: 52.7 g
+Fat: 8.5 g
+Sugar: 7.6 g
+Salt: 2.9 g
+
+No.112
+Name: 串カツ/Kushikatsu/串炸猪排
+Ingredient: Breaded and Fried Pork Cutlet Skewers
+Calory: 235 kcal
+Protein: 11.6 g
+Carbohydrate: 16.5 g
+Fat: 13.5 g
+Sugar: 1.2 g
+Salt: 2.2 g
+
+No.113
+Name: イエローカレー/Yellow Curry/黄咖喱
+Ingredient: Chicken, Potatoes, Yellow Curry Paste, Coconut Milk
+Calory: 325 kcal
+Protein: 15.2 g
+Carbohydrate: 18.4 g
+Fat: 21.6 g
+Sugar: 4.0 g
+Salt: 2.2 g
+
+No.114
+Name: パンケーキ/Pancake/煎饼
+Ingredient: Flour, Eggs, Milk, Baking Powder, Syrup
+Calory: 227 kcal
+Protein: 6.7 g
+Carbohydrate: 37.1 g
+Fat: 5.3 g
+Sugar: 11.7 g
+Salt: 1.0 g
+
+No.115
+Name: ちゃんぽん/Champon/拉面
+Ingredient: Noodles, Seafood (e.g., Shrimp, Squid), Vegetables
+Calory: 350 kcal
+Protein: 13.9 g
+Carbohydrate: 64.7 g
+Fat: 5.8 g
+Sugar: 3.0 g
+Salt: 3.1 g
+
+No.116
+Name: クレープ/Crepe/可丽饼
+Ingredient: Thin Pancake, Various Fillings (e.g., Nutella, Strawberries)
+Calory: 152 kcal
+Protein: 3.2 g
+Carbohydrate: 26.6 g
+Fat: 3.6 g
+Sugar: 13.4 g
+Salt: 0.3 g
+
+No.117
+Name: ティラミス/Tiramisu/提拉米苏
+Ingredient: Ladyfingers, Mascarpone Cheese, Coffee, Cocoa
+Calory: 373 kcal
+Protein: 6.1 g
+Carbohydrate: 31.9 g
+Fat: 24.3 g
+Sugar: 18.6 g
+Salt: 0.3 g
+
+No.118
+Name: ワッフル/Waffle/华夫饼
+Ingredient: Waffle Batter, Syrup, Butter
+Calory: 291 kcal
+Protein: 6.3 g
+Carbohydrate: 45.6 g
+Fat: 9.9 g
+Sugar: 11.6 g
+Salt: 0.9 g
+
+No.119
+Name: レアチーズケーキ/Rare Cheesecake/芝士蛋糕
+Ingredient: Cream Cheese, Sugar, Eggs
+Calory: 267 kcal
+Protein: 6.0 g
+Carbohydrate: 17.7 g
+Fat: 18.7 g
+Sugar: 14.3 g
+Salt: 0.4 g
+
+No.120
+Name: ショートケーキ/Shortcake/草莓蛋糕
+Ingredient: Sponge Cake, Whipped Cream, Strawberries
+Calory: 181 kcal
+Protein: 2.6 g
+Carbohydrate: 27.7 g
+Fat: 7.1 g
+Sugar: 17.0 g
+Salt: 0.4 g
+
+No.121
+Name: チャプスイ/Chop Suey/杂炒
+Ingredient: Mixed Vegetables, Meat (e.g., Pork or Chicken), Soy Sauce-based Seasoning
+Calory: 138 kcal
+Protein: 8.7 g
+Carbohydrate: 16.3 g
+Fat: 5.3 g
+Sugar: 3.7 g
+Salt: 2.0 g
+
+No.122
+Name: 二過肉/Twice Cooked Pork/回锅肉
+Ingredient: Sliced Pork Belly, Fermented Black Beans, Vegetables
+Calory: 304 kcal
+Protein: 18.6 g
+Carbohydrate: 8.7 g
+Fat: 23.3 g
+Sugar: 2.0 g
+Salt: 2.9 g
+
+No.123
+Name: マッシュルームリゾット/Mushroom Risotto/蘑菇烩饭
+Ingredient: Arborio Rice, Mushrooms, Parmesan Cheese
+Calory: 320 kcal
+Protein: 7.9 g
+Carbohydrate: 51.2 g
+Fat: 10.1 g
+Sugar: 3.2 g
+Salt: 2.3 g
+
+No.124
+Name: サムギョプサル/Samgyeopsal/三层肉
+Ingredient: Pork Belly, Lettuce Wraps, Various Sauces
+Calory: 329 kcal
+Protein: 16.7 g
+Carbohydrate: 4.6 g
+Fat: 26.2 g
+Sugar: 1.3 g
+Salt: 2.0 g
+
+No.125
+Name: ぞうに/Zoni/汤圆
+Ingredient: Rice Cakes, Miso Soup, Vegetables
+Calory: 138 kcal
+Protein: 4.2 g
+Carbohydrate: 28.7 g
+Fat: 0.5 g
+Sugar: 6.2 g
+Salt: 2.4 g
+
+No.126
+Name: フレンチトースト/French Toast/法国吐司
+Ingredient: Bread, Eggs, Milk, Cinnamon
+Calory: 208 kcal
+Protein: 6.7 g
+Carbohydrate: 27.9 g
+Fat: 7.8 g
+Sugar: 6.7 g
+Salt: 0.5 g
+
+No.127
+Name: 白湯うどん/Fine White Noodles/白汤乌冬面
+Ingredient: Udon Noodles, Clear Broth, Green Onions
+Calory: 263 kcal
+Protein: 9.2 g
+Carbohydrate: 55.4 g
+Fat: 0.3 g
+Sugar: 2.0 g
+Salt: 3.1 g
+
+No.128
+Name: ミネストローネ/Minestrone/蔬菜浓汤
+Ingredient: Vegetables (e.g., Tomatoes, Beans, Zucchini), Pasta
+Calory: 94 kcal
+Protein: 2.5 g
+Carbohydrate: 21.3 g
+Fat: 0.6 g
+Sugar: 4.7 g
+Salt: 2.2 g
+
+No.129
+Name: ポトフ/Pot-au-Feu/煮锅
+Ingredient: Beef, Vegetables, Broth
+Calory: 193 kcal
+Protein: 19.2 g
+Carbohydrate: 6.8 g
+Fat: 9.9 g
+Sugar: 3.2 g
+Salt: 2.2 g
+
+No.130
+Name: チキンナゲット/Chicken Nugget/鸡块
+Ingredient: Breaded and Fried Chicken Pieces
+Calory: 285 kcal
+Protein: 18.9 g
+Carbohydrate: 16.6 g
+Fat: 17.1 g
+Sugar: 0.3 g
+Salt: 1.0 g
+
+No.131
+Name: なめろう/Namero/腌鱼
+Ingredient: Mackerel or Sardines, Miso Paste, Green Onions
+Calory: 196 kcal
+Protein: 19.3 g
+Carbohydrate: 3.2 g
+Fat: 12.5 g
+Sugar: 1.0 g
+Salt: 2.5 g
+
+No.132
+Name: フレンチパン/French Bread/法棍面包
+Ingredient: Wheat Flour, Water, Salt, Yeast
+Calory: 265 kcal
+Protein: 8.9 g
+Carbohydrate: 53.0 g
+Fat: 1.0 g
+Sugar: 0.0 g
+Salt: 1.1 g
+
+No.133
+Name: おかゆ/Rice Gruel/粥
+Ingredient: Rice, Water, Various Toppings (e.g., Pickled Plum, Nori)
+Calory: 92 kcal
+Protein: 1.5 g
+Carbohydrate: 20.3 g
+Fat: 0.2 g
+Sugar: 0.0 g
+Salt: 0.5 g
+
+No.134
+Name: 鰻重/Broiled Eel Bowl/鳗鱼盖饭
+Ingredient: Grilled Eel, Rice, Eel Sauce
+Calory: 309 kcal
+Protein: 20.5 g
+Carbohydrate: 57.7 g
+Fat: 1.7 g
+Sugar: 5.4 g
+Salt: 2.8 g
+
+No.135
+Name: お吸い物/Clear Soup/清汤
+Ingredient: Clear Broth, Tofu, Green Onions
+Calory: 14 kcal
+Protein: 1.2 g
+Carbohydrate: 1.8 g
+Fat: 0.1 g
+Sugar: 0.7 g
+Salt: 2.0 g
+
+No.136
+Name: 湯豆腐/Yudofu/湯豆腐
+Ingredient: Tofu, Dashi Broth, Green Onions
+Calory: 63 kcal
+Protein: 5.3 g
+Carbohydrate: 2.0 g
+Fat: 3.5 g
+Sugar: 0.5 g
+Salt: 1.9 g
+
+No.137
+Name: もずく/Mozuku/海藻
+Ingredient: Seaweed (Mozuku), Vinegar, Soy Sauce
+Calory: 14 kcal
+Protein: 1.2 g
+Carbohydrate: 2.6 g
+Fat: 0.1 g
+Sugar: 0.3 g
+Salt: 2.1 g
+
+No.138
+Name: 稲荷寿司/Inarizushi/稻荷寿司
+Ingredient: Sushi Rice, Fried Tofu Pouches (Aburaage)
+Calory: 186 kcal
+Protein: 3.3 g
+Carbohydrate: 38.2 g
+Fat: 2.0 g
+Sugar: 6.5 g
+Salt: 1.7 g
+
+No.139
+Name: 豚ロースカツ/Pork Loin Cutlet/猪排煎饼
+Ingredient: Breaded and Fried Pork Loin
+Calory: 285 kcal
+Protein: 16.2 g
+Carbohydrate: 10.5 g
+Fat: 19.0 g
+Sugar: 0.6 g
+Salt: 1.6 g
+
+No.140
+Name: 豚ヒレカツ/Pork Fillet Cutlet/猪里脊煎饼
+Ingredient: Breaded and Fried Pork Fillet
+Calory: 265 kcal
+Protein: 17.8 g
+Carbohydrate: 7.2 g
+Fat: 18.4 g
+Sugar: 0.8 g
+Salt: 1.5 g
+
+No.141
+Name: 鳥カツ/Chicken Cutlet/鸡排煎饼
+Ingredient: Breaded and Fried Chicken Cutlet
+Calory: 253 kcal
+Protein: 21.7 g
+Carbohydrate: 13.6 g
+Fat: 11.9 g
+Sugar: 0.4 g
+Salt: 2.0 g
+
+No.142
+Name: ハムカツ/Ham Cutlet/火腿煎饼
+Ingredient: Breaded and Fried Ham Cutlet
+Calory: 192 kcal
+Protein: 9.2 g
+Carbohydrate: 14.7 g
+Fat: 11.5 g
+Sugar: 1.2 g
+Salt: 2.3 g
+
+No.143
+Name: ミンチカツ/Minced Meat Cutlet/碎肉煎饼
+Ingredient: Breaded and Fried Minced Meat (e.g., Pork or Beef)
+Calory: 286 kcal
+Protein: 17.4 g
+Carbohydrate: 9.6 g
+Fat: 20.1 g
+Sugar: 0.6 g
+Salt: 2.5 g
+
+No.144
+Name: 馬刺し/Thinly Sliced Raw Horsemeat/马肉刺身
+Ingredient: Slices of Raw Horsemeat
+Calory: 98 kcal
+Protein: 20.4 g
+Carbohydrate: 0.0 g
+Fat: 2.0 g
+Sugar: 0.0 g
+Salt: 0.2 g
+
+No.145
+Name: ベーグル/Bagel/百吉饼
+Ingredient: Wheat Flour, Water, Yeast, Various Toppings (e.g., Sesame Seeds)
+Calory: 260 kcal
+Protein: 10.4 g
+Carbohydrate: 53.9 g
+Fat: 1.4 g
+Sugar: 3.1 g
+Salt: 1.0 g
+
+No.146
+Name: スコーン/Scone/司康饼
+Ingredient: Flour, Sugar, Butter, Milk, Raisins (if applicable)
+Calory: 387 kcal
+Protein: 5.4 g
+Carbohydrate: 54.7 g
+Fat: 16.2 g
+Sugar: 17.1 g
+Salt: 0.7 g
+
+No.147
+Name: トルティーヤ/Tortilla/墨西哥薄饼
+Ingredient: Wheat Flour, Water, Salt
+Calory: 218 kcal
+Protein: 6.2 g
+Carbohydrate: 43.2 g
+Fat: 2.1 g
+Sugar: 0.2 g
+Salt: 0.8 g
+
+No.148
+Name: タコス/Tacos/玉米卷饼
+Ingredient: Ground Meat (e.g., Beef or Chicken), Tortillas, Toppings
+Calory: 223 kcal
+Protein: 14.4 g
+Carbohydrate: 14.6 g
+Fat: 11.7 g
+Sugar: 1.3 g
+Salt: 2.1 g
+
+No.149
+Name: ナチョス/Nachos/玉米片
+Ingredient: Tortilla Chips, Cheese, Jalapeños, Salsa
+Calory: 152 kcal
+Protein: 3.6 g
+Carbohydrate: 16.2 g
+Fat: 8.3 g
+Sugar: 1.5 g
+Salt: 0.8 g
+
+No.150
+Name: ミートローフ/Meat Loaf/肉卷
+Ingredient: Ground Meat (e.g., Beef or Pork), Bread Crumbs, Ketchup
+Calory: 229 kcal
+Protein: 16.7 g
+Carbohydrate: 10.2 g
+Fat: 13.8 g
+Sugar: 3.9 g
+Salt: 1.0 g
+
+No.151
+Name: スクランブルエッグ/Scrambled Egg/炒蛋
+Ingredient: Eggs, Butter or Oil, Milk (if used)
+Calory: 143 kcal
+Protein: 9.6 g
+Carbohydrate: 1.1 g
+Fat: 11.1 g
+Sugar: 1.0 g
+Salt: 0.3 g
+
+No.152
+Name: ライスグラタン/Rice Gratin/烩饭
+Ingredient: Rice, Cheese, White Sauce, Various Toppings
+Calory: 303 kcal
+Protein: 9.4 g
+Carbohydrate: 39.7 g
+Fat: 11.5 g
+Sugar: 3.0 g
+Salt: 1.4 g
+
+No.153
+Name: ラザニア/Lasagna/千层面
+Ingredient: Layers of Pasta, Meat Sauce, Cheese
+Calory: 310 kcal
+Protein: 17.5 g
+Carbohydrate: 35.0 g
+Fat: 11.6 g
+Sugar: 7.0 g
+Salt: 1.6 g
+
+No.154
+Name: シーザーサラダ/Caesar Salad/凯撒沙拉
+Ingredient: Romaine Lettuce, Croutons, Caesar Dressing, Parmesan Cheese
+Calory: 184 kcal
+Protein: 6.1 g
+Carbohydrate: 11.0 g
+Fat: 13.2 g
+Sugar: 1.8 g
+Salt: 1.0 g
+
+No.155
+Name: オートミール/Oatmeal/燕麦片
+Ingredient: Rolled Oats, Water or Milk, Various Toppings (e.g., Fruits, Nuts)
+Calory: 71 kcal
+Protein: 2.5 g
+Carbohydrate: 12.3 g
+Fat: 1.5 g
+Sugar: 0.6 g
+Salt: 0.0 g
+
+No.156
+Name: しゅうまい入り肉団子のスープ/Fried Pork Dumplings Served in Soup/煎猪肉饺子汤
+Ingredient: Pork Dumplings, Clear Soup, Vegetables
+Calory: 78 kcal
+Protein: 4.4 g
+Carbohydrate: 11.8 g
+Fat: 1.4 g
+Sugar: 1.0 g
+Salt: 2.2 g
+
+No.157
+Name: おしるこ/Oshiruko/红豆汤
+Ingredient: Red Bean Soup, Sweet Mochi
+Calory: 183 kcal
+Protein: 4.1 g
+Carbohydrate: 43.4 g
+Fat: 0.3 g
+Sugar: 18.3 g
+Salt: 0.0 g
+
+No.158
+Name: マフィン/Muffin/松饼
+Ingredient: Flour, Sugar, Eggs, Baking Powder, Various Flavors (e.g., Blueberry)
+Calory: 369 kcal
+Protein: 5.4 g
+Carbohydrate: 49.5 g
+Fat: 16.7 g
+Sugar: 23.7 g
+Salt: 0.6 g
+
+No.159
+Name: ポップコーン/Popcorn/爆米花
+Ingredient: Popped Corn Kernels, Butter (if used)
+Calory: 125 kcal
+Protein: 2.5 g
+Carbohydrate: 20.0 g
+Fat: 4.0 g
+Sugar: 0.2 g
+Salt: 0.1 g
+
+No.160
+Name: シュークリーム/Cream Puff/泡芙
+Ingredient: Choux Pastry, Whipped Cream Filling
+Calory: 231 kcal
+Protein: 3.0 g
+Carbohydrate: 19.9 g
+Fat: 15.2 g
+Sugar: 12.0 g
+Salt: 0.1 g
+
+No.161
+Name: ドーナツ/Doughnut/甜甜圈
+Ingredient: Dough, Sugar Glaze or Toppings
+Calory: 191 kcal
+Protein: 2.4 g
+Carbohydrate: 28.2 g
+Fat: 8.3 g
+Sugar: 12.2 g
+Salt: 0.3 g
+
+No.162
+Name: アップルパイ/Apple Pie/苹果派
+Ingredient: Pie Crust, Apple Filling, Sugar, Cinnamon
+Calory: 237 kcal
+Protein: 1.8 g
+Carbohydrate: 39.6 g
+Fat: 8.7 g
+Sugar: 19.6 g
+Salt: 0.2 g
+
+No.163
+Name: パフェ/Parfait/水果杯
+Ingredient: Layers of Ice Cream, Fruit, Whipped Cream, Syrup
+Calory: 311 kcal
+Protein: 4.7 g
+Carbohydrate: 45.2 g
+Fat: 13.3 g
+Sugar: 31.6 g
+Salt: 0.3 g
+
+No.164
+Name: スクープ揚げ豚/Fried Pork in Scoop/炸猪肉块
+Ingredient: Breaded and Fried Pork Chunks
+Calory: 271 kcal
+Protein: 12.9 g
+Carbohydrate: 18.5 g
+Fat: 17.6 g
+Sugar: 1.2 g
+Salt: 1.4 g
+
+No.165
+Name: ラムケバブ/Lamb Kebabs/烤羊肉串
+Ingredient: Skewered and Grilled Lamb
+Calory: 268 kcal
+Protein: 20.1 g
+Carbohydrate: 0.0 g
+Fat: 20.6 g
+Sugar: 0.0 g
+Salt: 1.0 g
+
+No.166
+Name: ポテトとナス、ピーマンの炒め物/Dish Consisting of Stir-fried Potato, Eggplant, and Green Pepper/炒土豆茄子青椒
+Ingredient: Potatoes, Eggplant, Green Peppers, Stir-Fry Sauce
+Calory: 82 kcal
+Protein: 2.3 g
+Carbohydrate: 17.5 g
+Fat: 0.4 g
+Sugar: 2.2 g
+Salt: 1.0 g
+
+No.167
+Name: ロース鴨ご飯/Rice with Roast Duck/烤鸭饭
+Ingredient: Roast Duck, Rice, Sauce
+Calory: 278 kcal
+Protein: 19.4 g
+Carbohydrate: 41.8 g
+Fat: 4.8 g
+Sugar: 0.3 g
+Salt: 2.0 g
+
+No.168
+Name: カリカリポークご飯/Rice Crispy Pork/炸猪肉饭
+Ingredient: Breaded and Fried Crispy Pork, Rice
+Calory: 294 kcal
+Protein: 14.9 g
+Carbohydrate: 35.0 g
+Fat: 10.5 g
+Sugar: 0.0 g
+Salt: 2.0 g
+
+No.169
+Name: ワンタンスープ/Wonton Soup/馄饨汤
+Ingredient: Wonton Dumplings, Clear Soup, Green Vegetables
+Calory: 129 kcal
+Protein: 7.3 g
+Carbohydrate: 21.2 g
+Fat: 1.4 g
+Sugar: 0.9 g
+Salt: 2.0 g
+
+No.170
+Name: チキンライスカレー/Chicken Rice Curry With Coconut/椰汁咖喱鸡饭
+Ingredient: Chicken, Rice, Curry Sauce with Coconut Milk
+Calory: 254 kcal
+Protein: 6.7 g
+Carbohydrate: 39.2 g
+Fat: 7.9 g
+Sugar: 1.3 g
+Salt: 1.4 g
+
+No.171
+Name: クリスピーヌードル/Crispy Noodles/脆皮面
+Ingredient: Fried Crispy Noodles
+Calory: 134 kcal
+Protein: 2.6 g
+Carbohydrate: 25.9 g
+Fat: 2.3 g
+Sugar: 1.5 g
+Salt: 0.5 g
+
+No.172
+Name: チキンカレーそば/Egg Noodle in Chicken Yellow Curry/咖喱鸡面
+Ingredient: Egg Noodles, Chicken Curry
+Calory: 263 kcal
+Protein: 7.8 g
+Carbohydrate: 43.2 g
+Fat: 6.5 g
+Sugar: 2.5 g
+Salt: 2.1 g
+
+No.173
+Name: ココナツミルクスープ/Coconut Milk Soup/椰汁汤
+Ingredient: Coconut Milk, Various Ingredients (e.g., Vegetables, Seafood)
+Calory: 189 kcal
+Protein: 2.4 g
+Carbohydrate: 5.7 g
+Fat: 17.5 g
+Sugar: 1.5 g
+Salt: 0.6 g
+
+No.174
+Name: フォー/Pho/越南牛肉粉
+Ingredient: Rice Noodles, Beef, Broth, Herbs
+Calory: 348 kcal
+Protein: 28.1 g
+Carbohydrate: 53.5 g
+Fat: 2.7 g
+Sugar: 1.3 g
+Salt: 2.4 g
+
+No.175
+Name: フエ牛肉ごはん/Hue Beef Rice Vermicelli Soup/顺化牛肉米线汤
+Ingredient: Rice Vermicelli, Beef, Broth, Vegetables
+Calory: 258 kcal
+Protein: 11.3 g
+Carbohydrate: 49.7 g
+Fat: 1.1 g
+Sugar: 0.7 g
+Salt: 1.9 g
+
+No.176
+Name: つるむる/Vermicelli Noodles with Snails/田螺米线
+Ingredient: Vermicelli Noodles, Snails, Sauce
+Calory: 175 kcal
+Protein: 12.5 g
+Carbohydrate: 31.6 g
+Fat: 0.8 g
+Sugar: 0.0 g
+Salt: 1.0 g
+
+No.177
+Name: 春巻き/Fried Spring Rolls/炸春卷
+Ingredient: Rice Paper, Ground Meat (e.g., Pork or Shrimp), Vegetables
+Calory: 67 kcal
+Protein: 2.3 g
+Carbohydrate: 11.0 g
+Fat: 1.3 g
+Sugar: 0.3 g
+Salt: 0.6 g
+
+No.178
+Name: 肉車輪蒸し/Steamed Rice Roll/蒸米卷
+Ingredient: Steamed Rice Rolls, Meat (e.g., Pork), Soy Sauce
+Calory: 98 kcal
+Protein: 4.1 g
+Carbohydrate: 13.8 g
+Fat: 3.2 g
+Sugar: 0.3 g
+Salt: 0.9 g
+
+No.179
+Name: シュリンプパティ/Shrimp Patties/虾饼
+Ingredient: Ground Shrimp, Herbs, Spices
+Calory: 78 kcal
+Protein: 14.4 g
+Carbohydrate: 0.3 g
+Fat: 2.1 g
+Sugar: 0.1 g
+Salt: 0.4 g
+
+No.180
+Name: 皮餃子/Ball-Shaped Bun with Pork/煎包子
+Ingredient: Steamed Bun, Ground Pork, Herbs
+Calory: 170 kcal
+Protein: 7.0 g
+Carbohydrate: 24.8 g
+Fat: 5.0 g
+Sugar: 1.3 g
+Salt: 1.2 g
+
+No.181
+Name: クレープ/Coconut Milk-Flavored Crepes with Shrimp and Beef/椰奶虾牛肉可丽饼
+Ingredient: Crepes, Coconut Milk, Shrimp, Beef
+Calory: 154 kcal
+Protein: 9.2 g
+Carbohydrate: 12.4 g
+Fat: 7.8 g
+Sugar: 3.4 g
+Salt: 0.9 g
+
+No.182
+Name: ちぢみ/Small Steamed Savory Rice Pancake/蒸咸水小煎饼
+Ingredient: Rice Flour, Seasonings
+Calory: 59 kcal
+Protein: 1.0 g
+Carbohydrate: 13.4 g
+Fat: 0.0 g
+Sugar: 0.0 g
+Salt: 1.0 g
+
+No.183
+Name: もちもちぼちぼち/Glutinous Rice Balls/糯米团
+Ingredient: Glutinous Rice, Fillings (e.g., Red Bean Paste)
+Calory: 98 kcal
+Protein: 1.0 g
+Carbohydrate: 22.6 g
+Fat: 0.2 g
+Sugar: 5.5 g
+Salt: 0.0 g
+
+No.184
+Name: ロコモコ/Loco Moco/肉汁蛋饭
+Ingredient: White Rice, Beef Patty, Gravy, Fried Egg
+Calory: 578 kcal
+Protein: 35.4 g
+Carbohydrate: 57.1 g
+Fat: 24.2 g
+Sugar: 3.5 g
+Salt: 2.2 g
+
+No.185
+Name: ハウピア/Haupia/椰奶果冻
+Ingredient: Coconut Milk, Sugar, Cornstarch
+Calory: 98 kcal
+Protein: 0.5 g
+Carbohydrate: 18.8 g
+Fat: 2.5 g
+Sugar: 13.6 g
+Salt: 0.0 g
+
+No.186
+Name: マラサダ/Malasada/甜面圈
+Ingredient: Fried Dough, Sugar Coating
+Calory: 289 kcal
+Protein: 3.3 g
+Carbohydrate: 35.7 g
+Fat: 15.0 g
+Sugar: 9.0 g
+Salt: 0.2 g
+
+No.187
+Name: ラウラウ/Laulau/烤包子
+Ingredient: Pork, Fish, Vegetables, Wrapped in Taro or Luau Leaves
+Calory: 238 kcal
+Protein: 10.2 g
+Carbohydrate: 20.0 g
+Fat: 14.0 g
+Sugar: 0.3 g
+Salt: 1.0 g
+
+No.188
+Name: スパムむすび/Spam Musubi/午餐肉饭团
+Ingredient: Rice, Spam (Luncheon Meat), Seaweed
+Calory: 308 kcal
+Protein: 6.9 g
+Carbohydrate: 35.0 g
+Fat: 15.2 g
+Sugar: 0.0 g
+Salt: 2.2 g
+
+No.189
+Name: オックステールスープ/Oxtail Soup/牛尾汤
+Ingredient: Oxtail, Vegetables, Broth
+Calory: 180 kcal
+Protein: 17.8 g
+Carbohydrate: 6.8 g
+Fat: 9.6 g
+Sugar: 1.4 g
+Salt: 1.0 g
+
+No.190
+Name: アドボ/Adobo/菲律宾卤肉
+Ingredient: Chicken or Pork, Vinegar, Soy Sauce, Spices
+Calory: 245 kcal
+Protein: 16.0 g
+Carbohydrate: 0.8 g
+Fat: 19.6 g
+Sugar: 0.1 g
+Salt: 2.1 g
+
+No.191
+Name: ルンピア/Lumpia/菲律宾春卷
+Ingredient: Spring Roll Wrapper, Vegetables, Meat or Shrimp, Sauce
+Calory: 54 kcal
+Protein: 1.1 g
+Carbohydrate: 8.3 g
+Fat: 2.0 g
+Sugar: 0.5 g
+Salt: 0.3 g
+
+No.192
+Name: ブラウニー/Brownie/布朗尼
+Ingredient: Chocolate, Butter, Sugar, Flour, Eggs, Nuts (optional)
+Calory: 112 kcal
+Protein: 1.2 g
+Carbohydrate: 19.9 g
+Fat: 3.7 g
+Sugar: 14.5 g
+Salt: 0.1 g
+
+No.193
+Name: チュロス/Churro/西班牙甜面筋
+Ingredient: Dough, Sugar, Cinnamon
+Calory: 120 kcal
+Protein: 1.4 g
+Carbohydrate: 20.7 g
+Fat: 3.6 g
+Sugar: 7.3 g
+Salt: 0.3 g
+
+No.194
+Name: ジャンバラヤ/Jambalaya/美国南部杂烩饭
+Ingredient: Rice, Meat (e.g., Chicken, Sausage, Shrimp), Vegetables, Spices
+Calory: 197 kcal
+Protein: 9.3 g
+Carbohydrate: 36.3 g
+Fat: 2.6 g
+Sugar: 3.1 g
+Salt: 1.6 g
+
+No.195
+Name: ナシゴレン/Nasi Goreng/印尼炒饭
+Ingredient: Fried Rice with Vegetables, Meat or Seafood, Spices
+Calory: 244 kcal
+Protein: 8.8 g
+Carbohydrate: 42.5 g
+Fat: 4.5 g
+Sugar: 2.6 g
+Salt: 1.4 g
+
+No.196
+Name: アヤムゴレン/Ayam Goreng/印尼炸鸡
+Ingredient: Fried Chicken, Spices
+Calory: 305 kcal
+Protein: 17.9 g
+Carbohydrate: 0.1 g
+Fat: 25.7 g
+Sugar: 0.0 g
+Salt: 1.2 g
+
+No.197
+Name: アヤムバカル/Ayam Bakar/印尼烤鸡
+Ingredient: Grilled Chicken, Marinade
+Calory: 240 kcal
+Protein: 24.1 g
+Carbohydrate: 2.0 g
+Fat: 15.6 g
+Sugar: 0.7 g
+Salt: 0.8 g
+
+No.198
+Name: ブブラアヤム/Bubur Ayam/印尼鸡肉粥
+Ingredient: Chicken Congee, Herbs, Spices
+Calory: 100 kcal
+Protein: 7.4 g
+Carbohydrate: 15.2 g
+Fat: 1.4 g
+Sugar: 1.0 g
+Salt: 0.4 g
+
+No.199
+Name: グレン/Gulai/印尼咖喱
+Ingredient: Curry with Meat or Vegetables, Coconut Milk, Herbs
+Calory: 186 kcal
+Protein: 7.1 g
+Carbohydrate: 5.5 g
+Fat: 15.8 g
+Sugar: 0.4 g
+Salt: 1.2 g
+
+No.200
+Name: ラクサ/Laksa/马来西亚叻沙
+Ingredient: Spicy Noodle Soup with Coconut Milk, Seafood or Meat
+Calory: 391 kcal
+Protein: 12.5 g
+Carbohydrate: 61.3 g
+Fat: 10.6 g
+Sugar: 3.7 g
+Salt: 2.3 g
+
+No.201
+Name: ミーアヤム/Mie Ayam/印尼炸鸡面
+Ingredient: Fried Chicken, Noodles, Vegetables, Seasonings
+Calory: 315 kcal
+Protein: 18.6 g
+Carbohydrate: 37.5 g
+Fat: 11.8 g
+Sugar: 1.3 g
+Salt: 2.0 g
+
+No.202
+Name: ミーゴレン/Mie Goreng/印尼炒面
+Ingredient: Fried Noodles, Vegetables, Meat or Seafood, Seasonings
+Calory: 385 kcal
+Protein: 14.3 g
+Carbohydrate: 47.9 g
+Fat: 15.8 g
+Sugar: 5.3 g
+Salt: 2.1 g
+
+No.203
+Name: ナシチャンプール/Nasi Campur/印尼杂拼饭
+Ingredient: Mixed Rice with Various Dishes (Meat, Vegetables, Eggs)
+Calory: 415 kcal
+Protein: 15.7 g
+Carbohydrate: 73.6 g
+Fat: 5.8 g
+Sugar: 5.7 g
+Salt: 2.4 g
+
+No.204
+Name: ナシパダン/Nasi Padang/印尼巴东饭
+Ingredient: Rice with Spicy Dishes (Meat, Vegetables, Coconut Milk)
+Calory: 378 kcal
+Protein: 11.2 g
+Carbohydrate: 55.5 g
+Fat: 12.5 g
+Sugar: 2.5 g
+Salt: 2.0 g
+
+No.205
+Name: ナシウドゥク/Nasi Uduk/印尼香饭
+Ingredient: Fragrant Coconut Rice, Toppings (Meat, Vegetables, Fried Shallots)
+Calory: 218 kcal
+Protein: 3.9 g
+Carbohydrate: 41.3 g
+Fat: 3.6 g
+Sugar: 1.7 g
+Salt: 0.5 g
+
+No.206
+Name: バビグリン/Babi Guling/巴厘烤猪
+Ingredient: Spit-Roasted Pig, Herbs, Spices
+Calory: 279 kcal
+Protein: 21.2 g
+Carbohydrate: 0.2 g
+Fat: 21.3 g
+Sugar: 0.0 g
+Salt: 1.0 g
+
+No.207
+Name: カヤトースト/Kaya Toast/加耶面包
+Ingredient: Toasted Bread, Kaya (Coconut and Egg Jam), Butter
+Calory: 315 kcal
+Protein: 6.1 g
+Carbohydrate: 47.5 g
+Fat: 11.9 g
+Sugar: 20.1 g
+Salt: 0.6 g
+
+No.208
+Name: バクトゥテ/Bak Kut Teh/肉骨茶
+Ingredient: Pork Ribs, Herbal Soup
+Calory: 254 kcal
+Protein: 17.4 g
+Carbohydrate: 5.2 g
+Fat: 18.3 g
+Sugar: 1.1 g
+Salt: 2.0 g
+
+No.209
+Name: カレーパフ/Curry Puff/咖喱角
+Ingredient: Pastry with Curry Filling (Meat or Vegetables)
+Calory: 125 kcal
+Protein: 2.2 g
+Carbohydrate: 9.4 g
+Fat: 8.9 g
+Sugar: 0.2 g
+Salt: 0.4 g
+
+No.210
+Name: チャウメン/Chow Mein/炒面
+Ingredient: Stir-Fried Noodles, Vegetables, Meat or Seafood, Sauce
+Calory: 373 kcal
+Protein: 18.7 g
+Carbohydrate: 49.3 g
+Fat: 12.3 g
+Sugar: 2.3 g
+Salt: 2.1 g
+
+No.211
+Name: 炸酱面/Zha Jiang Mian/炸酱面
+Ingredient: Noodles, Ground Pork, Fermented Soybean Paste
+Calory: 276 kcal
+Protein: 13.2 g
+Carbohydrate: 47.8 g
+Fat: 4.1 g
+Sugar: 3.0 g
+Salt: 1.3 g
+
+No.212
+Name: 宮保鶏丁/Kung Pao Chicken/宫保鸡丁
+Ingredient: Chicken, Peanuts, Vegetables, Spices, Soy Sauce
+Calory: 291 kcal
+Protein: 16.7 g
+Carbohydrate: 13.6 g
+Fat: 20.3 g
+Sugar: 6.0 g
+Salt: 1.2 g
+
+No.213
+Name: クルーラー/Crullers/油条
+Ingredient: Deep-Fried Dough
+Calory: 196 kcal
+Protein: 2.9 g
+Carbohydrate: 32.2 g
+Fat: 6.3 g
+Sugar: 4.8 g
+Salt: 0.1 g
+
+No.214
+Name: ニンニクソース茄子/Eggplant with Garlic Sauce/蒜茸茄子
+Ingredient: Eggplant, Garlic Sauce, Soy Sauce
+Calory: 103 kcal
+Protein: 1.4 g
+Carbohydrate: 22.6 g
+Fat: 0.9 g
+Sugar: 6.0 g
+Salt: 1.3 g
+
+No.215
+Name: 三杯鶏/Three Cup Chicken/三杯鸡
+Ingredient: Chicken, Sesame Oil, Soy Sauce, Rice Wine
+Calory: 245 kcal
+Protein: 14.5 g
+Carbohydrate: 4.9 g
+Fat: 17.4 g
+Sugar: 0.3 g
+Salt: 1.6 g
+
+No.216
+Name: 家庭風豆腐/Bean Curd Family Style/家常豆腐
+Ingredient: Tofu, Ground Pork, Soy Sauce
+Calory: 194 kcal
+Protein: 13.2 g
+Carbohydrate: 5.5 g
+Fat: 13.3 g
+Sugar: 0.5 g
+Salt: 1.7 g
+
+No.217
+Name: 甲虫きり揚げ/Salt & Pepper Fried Shrimp with Shell/盐麻虫炸虾
+Ingredient: Fried Shrimp with Shell, Salt and Pepper Seasoning
+Calory: 98 kcal
+Protein: 13.0 g
+Carbohydrate: 1.3 g
+Fat: 4.1 g
+Sugar: 0.1 g
+Salt: 1.0 g
+
+No.218
+Name: オーブン焼きサーモン/Baked Salmon/烤三文鱼
+Ingredient: Salmon, Seasonings
+Calory: 367 kcal
+Protein: 47.5 g
+Carbohydrate: 0.0 g
+Fat: 19.3 g
+Sugar: 0.0 g
+Salt: 0.9 g
+
+No.219
+Name: 白菜豚挽肉入り大根汁/Braised Pork Meatball with Napa Cabbage/白菜猪肉煮
+Ingredient: Napa Cabbage, Ground Pork, Soup
+Calory: 189 kcal
+Protein: 12.6 g
+Carbohydrate: 16.3 g
+Fat: 8.0 g
+Sugar: 6.3 g
+Salt: 1.4 g
+
+No.220
+Name: 冬瓜スープ/Winter Melon Soup/冬瓜汤
+Ingredient: Winter Melon, Pork, Herbs
+Calory: 63 kcal
+Protein: 3.7 g
+Carbohydrate: 14.2 g
+Fat: 0.3 g
+Sugar: 8.4 g
+Salt: 0.6 g
+
+No.221
+Name: 豚肉パイ/Chinese Pumpkin Pie/南瓜饼
+Ingredient: Pumpkin, Pork, Pastry
+Calory: 274 kcal
+Protein: 6.3 g
+Carbohydrate: 38.7 g
+Fat: 10.8 g
+Sugar: 6.0 g
+Salt: 0.4 g
+
+No.222
+Name: 八宝飯/Eight Treasure Rice/八宝饭
+Ingredient: Glutinous Rice, Various Toppings (Fruits, Nuts, Sweet Syrup)
+Calory: 310 kcal
+Protein: 4.7 g
+Carbohydrate: 73.9 g
+Fat: 1.1 g
+Sugar: 20.3 g
+Salt: 0.1 g
+
+No.223
+Name: 酸辣湯/Hot & Sour Soup/酸辣汤
+Ingredient: Broth, Tofu, Mushrooms, Pork, Eggs, Vinegar, Spices
+Calory: 77 kcal
+Protein: 3.1 g
+Carbohydrate: 11.4 g
+Fat: 2.3 g
+Sugar: 0.7 g
+Salt: 1.5 g
