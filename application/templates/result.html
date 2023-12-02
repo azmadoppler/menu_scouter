@@ -6,7 +6,23 @@
 <body>
     <h1>Image Classification Result</h1>
     <p>The class of the uploaded image is: <strong>{{ info }}</strong></p>
-    <a href="/upload">Try another image</a><br>
+
+    <h1>Food Data</h1>
+    <table border="1">
+        <tr>
+            {% for key in food_data[0].keys() %}
+            <th>{{ key }}</th>
+            {% endfor %}
+        </tr>
+        {% for item in food_data %}
+        <tr>
+            {% for value in item.values() %}
+            <td>{{ value }}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>
+
     <a href="/">Back to Home</a>
 </body>
 </html>

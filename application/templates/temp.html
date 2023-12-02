@@ -1,0 +1,36 @@
+
+food_data = []
+food_item = {}
+
+with open('category_jp_eng_cn.txt', 'r', encoding='utf-8') as file:
+        lines = file.readlines()
+
+for line in lines:
+    line = line.strip()
+    if line.startswith("No."):
+        if food_item:
+            food_data.append(food_item)
+        food_item = {"No": line}
+    elif line:
+        key, value = line.split(':', 1)
+        food_item[key.strip()] = value.strip()
+
+if food_item:
+    food_data.append(food_item)
+
+
+     <h1>Food Data</h1>
+    <table border="1">
+        <tr>
+            {% for key in food_item[0].keys() %}
+            <th>{{ key }}</th>
+            {% endfor %}
+        </tr>
+        {% for item in food_item %}
+        <tr>
+            {% for value in item.values() %}
+            <td>{{ value }}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>

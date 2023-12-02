@@ -6,10 +6,42 @@ import pytesseract
 
 app = Flask(__name__)
 
+
+food_data = []
+food_item = {}
+results = []
+
+with open('category_jp_eng_cn.txt', 'r', encoding='utf-8') as file:
+        lines = file.readlines()
+
+for line in lines:
+    line = line.strip()
+    if line.startswith("No."):
+        if food_item:
+            #food_item["Image Link"] = "https://example.com/placeholder.jpg"
+            food_data.append(food_item)
+        food_item = {"No": line}
+    elif line:
+        key, value = line.split(':', 1)
+        food_item[key.strip()] = value.strip()
+
+#last item
+if food_item:
+    #food_item["Image Link"] = "https://example.com/placeholder.jpg"
+    food_data.append(food_item)
+
 # Ensure there is a folder named 'uploads' in the same directory as this script
 UPLOAD_FOLDER = 'uploads'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 translate_result = []
+
+def find_matching_food_items(keyword):
+    matching_items = []
+    for item in food_data:
+        if keyword.lower() in item['Name'].lower():
+            matching_items.append(item)
+    return matching_items
+
 
 @app.route('/')
 def index():
@@ -65,29 +97,53 @@ def upload_cropped_image():
             translator = Translator()
             try:
             # Translate the extracted text to Japanese
+                extracted_text = extracted_text.replace(" ","")
+                extracted_text = extracted_text.replace("　","")
                 translated_text = translator.translate(extracted_text, src='ja', dest='en')
 
                 print("Original Text:")
                 print(extracted_text)
+                
 
                 print("\nTranslated Text:")
                 print(translated_text.text)
                 translate_result.append(translated_text.text)
+
+                #SOMETHING TO CUT A WORD HERE 
+
+                #results = find_matching_food_items(translated_text.text)
+                results.append(find_matching_food_items(translated_text.text))
+
+                #test for en
+                #results.append(find_matching_food_items(extracted_text))
+                print("translate results goes here")
+                print(results)
             except:
                 print("Empty Text Found")
                 empty_flag = 1
+                return render_template('index.html')
 
         else:
-            return {'status': 'no file found'}, 400
+            return {'status': 'no file found'}
     
 
-    return render_template('result.html')
+    print("I'M REDIRECT STINGY")
+    #print(food_data)
+    return {'status': 'success'}
                            #, class_label=translated_text.text)
+
+
 
 
 @app.route('/result')
 def result():
-    return render_template('result.html', info=translate_result)
+    print("I'M INSIDE RESULTS")
+    print(results)
+    
+    temp_result = results.pop()
+    #emp_result = list(filter(None, temp_result))
+    return render_template('result.html',food_data=temp_result ,info=translate_result)
+                           #,food_item=food_item ,info=translate_result)
 
 
 def classify_image(image_path):
@@ -96,4 +152,27 @@ def classify_image(image_path):
     return "Dummy Class"
 
 if __name__ == '__main__':
+    # #Create the db list
+    
+
+    # food_data = []
+    # food_item = {}
+
+    # with open('category_jp_eng_cn.txt', 'r', encoding='utf-8') as file:
+    #         lines = file.readlines()
+
+    # for line in lines:
+    #     line = line.strip()
+    #     if line.startswith("No."):
+    #         if food_item:
+    #             food_data.append(food_item)
+    #         food_item = {"No": line}
+    #     elif line:
+    #         key, value = line.split(':', 1)
+    #         food_item[key.strip()] = value.strip()
+
+    # if food_item:
+    #     food_data.append(food_item)
+
+
     app.run(debug=True)
